@@ -1,0 +1,5 @@
+pandas
+requests[socks]
+web3
+retrying
+xlsxwriter
